@@ -1,3 +1,5 @@
+[← Return to Phulka Website](https://harkirat1892.github.io/phulka-website/)
+
 # Privacy Policy: Phulka
 
 *Last updated: 27 September 2026*
@@ -15,3 +17,6 @@ Phulka ("the app") is made by Harkirat Singh.
 **Changes.** If this ever changes (for example, if an online feature is added), this policy will be updated before that version is released, and the date above will change.
 
 **Contact.** sifarlabs5@gmail.com
+
+---
+[Visit Phulka Website](https://harkirat1892.github.io/phulka-website/)
