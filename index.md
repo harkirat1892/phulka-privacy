@@ -14,4 +14,4 @@ Phulka ("the app") is made by Harkirat Singh.
 
 **Changes.** If this ever changes (for example, if an online feature is added), this policy will be updated before that version is released, and the date above will change.
 
-**Contact.** harkirat1892@gmail.com
+**Contact.** sifarlabs5@gmail.com
